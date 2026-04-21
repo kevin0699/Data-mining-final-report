@@ -6,8 +6,7 @@ This repository archives the final project materials for a data visualization st
 
 - `build_final_project_assets.py`: Python script that reads the merged market dataset and generates the visualization assets.
 - `final_project_main_figure.svg`: Main figure used in the report.
-- `final_project_report_draft.html`: Three-page report prepared for final submission.
-- `final_project_summary.json`: Computed summary statistics used to support findings.
+- `EV Adoption, Charging Buildout, and Consumer Interest Across Four Markets_Final Project Report`: Three-page final report.
 - Original dataset files from the Kaggle package, including `ev_market_master.csv` and the local `README.md`.
 
 ## Project Question
